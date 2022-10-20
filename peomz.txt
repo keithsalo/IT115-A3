@@ -1,5 +1,4 @@
 
- keith-branch2
 Ah, distinctly I remember it was in the bleak December;
 And each separate dying ember wrought its ghost upon the floor.
     Eagerly I wished the morrow;—vainly I had sought to borrow
@@ -13,4 +12,17 @@ Thrilled me—filled me with fantastic terrors never felt before;
     “’Tis some visitor entreating entrance at my chamber door—
 Some late visitor entreating entrance at my chamber door;—
             This it is and nothing more.”
- main
+           
+Presently my soul grew stronger; hesitating then no longer,
+“Sir,” said I, “or Madam, truly your forgiveness I implore;
+    But the fact is I was napping, and so gently you came rapping,
+    And so faintly you came tapping, tapping at my chamber door,
+That I scarce was sure I heard you”—here I opened wide the door;—
+            Darkness there and nothing more.
+
+    Deep into that darkness peering, long I stood there wondering, fearing,
+Doubting, dreaming dreams no mortal ever dared to dream before;
+    But the silence was unbroken, and the stillness gave no token,
+    And the only word there spoken was the whispered word, “Lenore?”
+This I whispered, and an echo murmured back the word, “Lenore!”—
+            Merely this and nothing more.
